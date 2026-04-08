@@ -93,7 +93,8 @@ app.use(cors({
     'http://localhost:5177',
     'http://localhost:5178',
     'http://localhost:5179',
-    'https://sparkling-marshmallow-899bb9.netlify.app'
+    'https://sparkling-marshmallow-899bb9.netlify.app',
+    'https://kgschool.netlify.app'
   ],
   credentials: true
 }));
